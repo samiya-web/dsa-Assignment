@@ -80,8 +80,3 @@ A circular queue is a linear data structure that follows the **FIFO (First In, F
 | `circular_queue.c` | Circular Queue implementation using array |
 | `README.md` | Assignment documentation |
 
-## Technologies Used
-
-- C Programming
-- Data Structures and Algorithms
-- GitHub
